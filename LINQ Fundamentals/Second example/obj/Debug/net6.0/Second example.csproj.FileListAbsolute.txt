@@ -1,0 +1,15 @@
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\bin\Debug\net6.0\Second example.exe
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\bin\Debug\net6.0\Second example.deps.json
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\bin\Debug\net6.0\Second example.runtimeconfig.json
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\bin\Debug\net6.0\Second example.dll
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\bin\Debug\net6.0\Second example.pdb
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\obj\Debug\net6.0\Second example.csproj.AssemblyReference.cache
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\obj\Debug\net6.0\Second example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\obj\Debug\net6.0\Second example.AssemblyInfoInputs.cache
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\obj\Debug\net6.0\Second example.AssemblyInfo.cs
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\obj\Debug\net6.0\Second example.csproj.CoreCompileInputs.cache
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\obj\Debug\net6.0\Second example.dll
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\obj\Debug\net6.0\refint\Second example.dll
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\obj\Debug\net6.0\Second example.pdb
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\obj\Debug\net6.0\Second example.genruntimeconfig.cache
+C:\Users\KGrants\Desktop\C#\LINQ\Second example\obj\Debug\net6.0\ref\Second example.dll
